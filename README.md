@@ -1,7 +1,7 @@
 
 <img align='right' width=320 src="https://user-images.githubusercontent.com/38081852/87235907-17dd4f80-c3b8-11ea-9480-e6d28dcab2b0.png">
 
-## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, 
+## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
 🎓 **Estudante de Sistema de Informação, Universidade Federal de Viçosa**,📚**Desenvolvedor Jr**.<br>❤️ **Apaixonado por tecnologia**, 🤝 **Resolver problemas reais**, 🚧 **Open Source Projects**, :round_pushpin: **Mudar vidas com tecnologia**.
   
