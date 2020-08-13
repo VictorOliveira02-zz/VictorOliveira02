@@ -3,7 +3,7 @@
 
 ## Olá, Seja Bem-Vindo! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-🎓 **Estudante de Sistema de Informação, Universidade Federal de Viçosa**,📚**Desenvolvedor Jr**.<br>❤️ **Apaixonado por tecnologia**, 🤝 **Resolver problemas reais**, 🚧 **Open Source Projects**, :round_pushpin: **Mudar vidas com tecnologia**.
+🎓 **Estudante de Sistema de Informação, Universidade Federal de Viçosa**,<br>❤️ **Apaixonado por tecnologia**, 🤝 **Resolver problemas reais**, 🚧 **Open Source Projects**, :round_pushpin: **Mudar vidas com tecnologia**.
   
   - 🔭 **Atualmente iniciando no mundo Dev**
   - 🌱 **Tenho aprendido:** **Python**, **C**, **Stack Web**
