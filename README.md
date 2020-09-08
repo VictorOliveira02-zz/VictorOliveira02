@@ -27,17 +27,12 @@
 
 ### 🌍 **Fale Comigo:**
 
-<a href="https://www.linkedin.com/in/victor-alves-de-oliveira-089a991a8/" target="_blank">
+<a href="https://www.linkedin.com/in/victor-alves-de-oliveira/" target="_blank">
 <img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
 </a>
 
 <a href="https://www.instagram.com/victoralves_08/" target="_blank">
 <img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
-</a>
-
-
-<a href="victoralvees17@gmail.com" target="_blank">
-<img width=45 height=45 src="https://user-images.githubusercontent.com/38081852/86829797-39ae9d80-c06b-11ea-9b5e-c9ade9446951.png">
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=+55311962443245" target="_blank">
