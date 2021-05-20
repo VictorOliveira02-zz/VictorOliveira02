@@ -8,12 +8,6 @@
   - 🔭 **Atualmente estagiando no mundo Dev**
   - 🌱 **Tenho aprendido:** **Python**, **C**, **Stack Web Js**
   - 💬 **Ask me about:** 🔋 tecnologia, ☕ Café, 🎶 Musica, :soccer: Futebol.
-  
-<div align='center'>
-  
-###  **Fale Comigo 🌍:**
-
-<div>
  
 <a href="https://www.linkedin.com/in/victor-alves-de-oliveira/" target="_blank">
 <img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
