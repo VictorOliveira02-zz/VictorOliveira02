@@ -15,7 +15,7 @@
   <img width=45 src="https://user-images.githubusercontent.com/38081852/86829801-3b786100-c06b-11ea-81de-7c1023d6214a.png">
   </a>
 
-  <a href="https://www.instagram.com/victoralves_08/" target="_blank">
+  <a href="https://www.instagram.com/victoroliveira.dev/" target="_blank">
   <img width=45 src="https://user-images.githubusercontent.com/38081852/86829800-3adfca80-c06b-11ea-866a-4b6e716f7ed0.png">
   </a>
 
