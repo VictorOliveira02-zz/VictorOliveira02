@@ -5,8 +5,8 @@
 
 🎓 **Estudante de Sistema de Informação, Universidade Federal de Viçosa**<br>❤️ **Apaixonado por tecnologia**, 🤝 **Resolver problemas reais**, 🚧 **Open Source Projects**, :round_pushpin: **Mudar vidas com tecnologia**.
   
-  - 🔭 **Atualmente estagiando**
-  - 🌱 **Tenho aprendido:** **Stack Web Js: React JS**
+  - 🔭 **Atualmente Estagiando**
+  - 🌱 **Tenho aprendido:** **Stack Web Js: React JS + Node Js**
   - 💬 **Ask me about:** 🔋 tecnologia, ☕ Café, 🎶 Musica, :soccer: Futebol.
  
  
