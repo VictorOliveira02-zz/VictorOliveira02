@@ -9,8 +9,8 @@ Meu maior objetivo é impactar vidas através da tecnologia, que não se baseia 
 
 Tenho focado em me desenvolver através de cursos online para o desenvolvimento Web na Stack Js (ReactJs, NodeJs) além de conteúdos pela Universidade na area de programação. 
   
-  - 🔭 **Web Developer**
-  - 🌱 **Stack Web Js: React JS + Node Js + React Native**
+  - 🔭 **Apaixonado por Desenvolvimento de Software**
+  - 🌱 **Stack JavaScript: React JS + Node Js + React Native**
   - 💬 **Ask me about:** 🔋 tecnologia, ☕ Café, 🎶 Musica, :soccer: Futebol.
  
  
