@@ -3,10 +3,14 @@
 
 ## Olá, Seja Bem-Vindo(a)! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 
-🎓 **Estudante de Sistema de Informação, Universidade Federal de Viçosa**<br>❤️ **Apaixonado por tecnologia**, 🤝 **Resolver problemas reais**, 🚧 **Open Source Projects**, :round_pushpin: **Mudar vidas com tecnologia**.
+Software Developer, Graduando em Sistemas de Informação, pela Universidade Federal de Viçosa.
+
+Meu maior objetivo é impactar vidas através da tecnologia, que não se baseia apenas em códigos, mas sim em pessoas. Acredito que com muito esforço, foco e dedicação é possível mudar a realidade de muitos.
+
+Tenho focado em me desenvolver através de cursos online para o desenvolvimento Web na Stack Js (ReactJs, NodeJs) além de conteúdos pela Universidade na area de programação. 
   
-  - 🔭 **Atualmente Estagiando**
-  - 🌱 **Tenho aprendido:** **Stack Web Js: React JS + Node Js**
+  - 🔭 **Web Developer**
+  - 🌱 **Stack Web Js: React JS + Node Js + React Native**
   - 💬 **Ask me about:** 🔋 tecnologia, ☕ Café, 🎶 Musica, :soccer: Futebol.
  
  
